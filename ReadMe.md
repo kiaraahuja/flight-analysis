@@ -6,8 +6,8 @@ This repository contains Scala scripts to analyze flight data and answer four qu
 
 Make sure you have the following installed on your system:
 
-- Scala (installation instructions)
-- Java Development Kit (JDK) 8 or higher (installation instructions)
+- Scala 
+- Java Development Kit (JDK) 8 or higher 
 
 ### Instructions
 1. Clone this repository to your local machine
